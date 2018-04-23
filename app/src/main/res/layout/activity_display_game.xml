@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/TableLayout03">
+
+    //Where the spinner is located to select pattern
+    <TableRow
+        android:id="@+id/spinLocation"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_marginLeft="100dp"
+        android:layout_marginRight="100dp"
+        android:layout_marginTop="50dp"
+        android:layout_marginBottom="60dp">
+        <Spinner android:id="@+id/Spinner01"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1">
+        </Spinner>
+    </TableRow>
+
+    //Table where the tiles will be placed
+    <TableRow
+        android:id="@+id/mainTable"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center">
+    </TableRow>
+
+    //Where the points will be stated
+    <TableRow
+        android:id="@+id/pointTable"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom"
+            android:gravity="bottom"
+            android:id="@+id/pointDisp"
+            android:paddingLeft="10sp"
+            android:layout_weight="1"
+            android:layout_column="12">
+        </TextView>
+    </TableRow>
+</TableLayout>
+

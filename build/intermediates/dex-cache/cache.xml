@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\acpha\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="C:\Users\acpha\Documents\GitHub\memory-game-acphan\app\build\intermediates\transforms\dex\debug\folders\1000\10\library-2.4.0_cc37a1be2e1769a06e3e1293cc3a69bddf1c208f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\acpha\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.4.0\ea392375cf9ff59234a82e7928a204215ccc98cd\butterknife-annotations-8.4.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="ea392375cf9ff59234a82e7928a204215ccc98cd">
+        <dex dex="C:\Users\acpha\Documents\GitHub\memory-game-acphan\app\build\intermediates\transforms\dex\debug\folders\1000\10\butterknife-annotations-8.4.0_825aabfc19c8c42c907e6c298519b1b3400c0748\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\acpha\Documents\GitHub\memory-game-acphan\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\acpha\Documents\GitHub\memory-game-acphan\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_ce25a622fb0dc7bc722a2238198481804414dca1\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\acpha\Documents\GitHub\memory-game-acphan\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\acpha\Documents\GitHub\memory-game-acphan\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_3d8542818a2f51aa369d7a0afc5c486356a5ce63\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\acpha\Documents\GitHub\memory-game-acphan\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\acpha\Documents\GitHub\memory-game-acphan\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_86ec69be995f6cff15fdbdcc2d0ac6b8712dd3ee\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\acpha\Documents\GitHub\memory-game-acphan\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\acpha\Documents\GitHub\memory-game-acphan\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_58936b7304375e3bc4a875e2ee9515ec90c502d7\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\acpha\Documents\GitHub\memory-game-acphan\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\acpha\Documents\GitHub\memory-game-acphan\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_85821159657e35971f5d0e91260b53e3bd929b1e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\acpha\Documents\GitHub\memory-game-acphan\app\build\intermediates\exploded-aar\com.daimajia.androidanimations\library\1.1.3\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="8cec50fc9cc847bad0d6ed7d93814f4b34744521">
+        <dex dex="C:\Users\acpha\Documents\GitHub\memory-game-acphan\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.daimajia.androidanimations-library-1.1.3_02d5af1440f09f71e251fbbdeb03b1fe102dd437\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\acpha\Documents\GitHub\memory-game-acphan\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="686df2dd0d881d99cafb7b837a2303713ffbe86e">
+        <dex dex="C:\Users\acpha\Documents\GitHub\memory-game-acphan\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_3386cf747128b90f9336d62bdf9bc0ebe16fad71\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\acpha\Documents\GitHub\memory-game-acphan\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\acpha\Documents\GitHub\memory-game-acphan\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_71c1aaaf98f15a2babfbcaebb7e4b199f708ad67\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\acpha\Documents\GitHub\memory-game-acphan\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\acpha\Documents\GitHub\memory-game-acphan\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_83ade2e5d122b485d72bd322bac05a4ca9dd96d1\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\acpha\Documents\GitHub\memory-game-acphan\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="af1a9085f741bda8718b405608f1d79399a6cc6b">
+        <dex dex="C:\Users\acpha\Documents\GitHub\memory-game-acphan\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_32e9b7ca7570f40a2443df9427afa1195811dcb4\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\acpha\Documents\GitHub\memory-game-acphan\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\acpha\Documents\GitHub\memory-game-acphan\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_f6ba43beed938116fd82f7aefe8acaf9f7557065\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\acpha\Documents\GitHub\memory-game-acphan\app\build\intermediates\exploded-aar\com.daimajia.easing\library\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="d7e947f993bf32a00fcb3078cdda8bb11c930afb">
+        <dex dex="C:\Users\acpha\Documents\GitHub\memory-game-acphan\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.daimajia.easing-library-1.0.1_b17a2c2db26c1346c1b627cfa6ee3921e9941f41\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\acpha\Documents\GitHub\memory-game-acphan\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\acpha\Documents\GitHub\memory-game-acphan\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_a6fe5e5d82ab26e322f5caee36f55191467a504f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\acpha\Documents\GitHub\memory-game-acphan\app\build\intermediates\exploded-aar\com.jakewharton\butterknife\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="a07818a1ecabdb149998823429cce555af4b9cba">
+        <dex dex="C:\Users\acpha\Documents\GitHub\memory-game-acphan\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.jakewharton-butterknife-8.4.0_4f38df302bd5e378f4ed8828cc1fe5ce9dcef0c5\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\acpha\Documents\GitHub\memory-game-acphan\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\acpha\Documents\GitHub\memory-game-acphan\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_933bdea66d79c9bcde4a374272bbc653bba94b8a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\acpha\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\acpha\Documents\GitHub\memory-game-acphan\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_3fae509b1406a75f86d7bbfedac49f57a652c894\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\acpha\Documents\GitHub\memory-game-acphan\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\acpha\Documents\GitHub\memory-game-acphan\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_1dc8751ecddf8599a1d6f9c5289a2b02046d4415\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\acpha\Documents\GitHub\memory-game-acphan\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\acpha\Documents\GitHub\memory-game-acphan\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_e8b0b9e1948fb774264a2ef93ff9b2a38fba548c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\acpha\Documents\GitHub\memory-game-acphan\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\acpha\Documents\GitHub\memory-game-acphan\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_9e8be7e4b4aa73efb305c222326d48c24e0ef7ee\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\acpha\Documents\GitHub\memory-game-acphan\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\acpha\Documents\GitHub\memory-game-acphan\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_21686d052284993ea04cd90549ce7fcd94b83ee8\classes.dex" />
+    </item>
+
+</items>
